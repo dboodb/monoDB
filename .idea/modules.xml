@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../monoDB/.idea/monoDB.iml" filepath="$PROJECT_DIR$/../monoDB/.idea/monoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/telebot.iml" filepath="$PROJECT_DIR$/.idea/telebot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../video/.idea/video.iml" filepath="$PROJECT_DIR$/../video/.idea/video.iml" />
+    </modules>
+  </component>
+</project>
